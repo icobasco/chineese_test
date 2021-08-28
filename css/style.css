@@ -1,0 +1,11 @@
+body {
+    background-color: burlywood;
+}
+
+#imgHeader {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 30%;
+}
